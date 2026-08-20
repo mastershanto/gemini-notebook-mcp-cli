@@ -27,7 +27,6 @@ ENV/
 
 # IDE
 .idea/
-.vscode/
 .cursor/
 *.swp
 *.swo
@@ -94,3 +93,5 @@ scratch/
 # Internal planning docs
 docs/plans/
 docs/superpowers/
+config.bat
+node_modules
